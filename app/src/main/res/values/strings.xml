@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Challenge1__AndresCabrera</string>
+    <string name="findPic">Search Image</string>
+    <string name="takePic">Take Image</string>
+    <string name="searchID">Search Image ID</string>
+    <string name="image">Capture image holder</string>
+</resources>
